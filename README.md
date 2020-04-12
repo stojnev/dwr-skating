@@ -2,7 +2,7 @@
 
 "dŵr skating" is a collection of thoughts, musings, methodologies, measurements, results and analyses related to the influence of skating force and anti-skating mechanisms during vinyl reproduction.
 
-Most of the work centers around **dŵr**, a turntable of my design and execution.
+Most of the work centers around **dŵr**, a turntable of own design and execution.
 
 ## Description
 
