@@ -18,7 +18,7 @@ Methodology includes:
 
 - Visualization of skating force using vector graphics and measurements;
 - Recording of fundamental tones and associated harmonics over the various areas of a vinyl record;
-- Analysis of THD+N and channel balance;
+- Analysis of THD+N and channel balance (many thanks to https://www.youtube.com/watch?v=s_cVP5gu4SY for a clear breakdown of calculations);
 - Determination of optimal compensation mechanisms; and,
 - Subjective listening sessions.
 
